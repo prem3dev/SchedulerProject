@@ -242,5 +242,4 @@ localhost:8080/schedules/{authorId}
 |    Field와 다른 타입의 요청을 받을 경우     |400 BAD_REQUEST|"invalid request field value"|
 
 ## ERD
-
-![img_1.png](ERD.png)
+![img.png](SchedulerERD.png)
